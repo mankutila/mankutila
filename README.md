@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Maria
 
-- 💻 I'm a fullstack developer, mostly experienced in Javascript
+- 💻 I'm a software developer, mostly experienced in Javascript
 - 🧩 Really like good UI and accessibility
 
 ## Skills
